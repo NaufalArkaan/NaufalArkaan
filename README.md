@@ -1,4 +1,5 @@
 ![giphy style="display: block; margin: auto;"](https://github.com/NaufalArkaan/NaufalArkaan/assets/139612657/af83e38b-c1fa-4ce3-98fe-78b19676cc88)
+![gif](https://github.com/NaufalArkaan/NaufalArkaan/assets/139612657/61ef0401-2553-4563-9726-40d3b3413498)
 <h1 align="center">Hi 👋, I'm Naufal</h1>
 <h3 align="center">Frontend Developer</h3>
 
