@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/KG4tZeTXlQzPlbISjT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ReversingLabs-malware-petya-notpetya-KG4tZeTXlQzPlbISjT">via GIPHY</a></p>
+![giphy style="display: block; margin: auto;"](https://github.com/NaufalArkaan/NaufalArkaan/assets/139612657/af83e38b-c1fa-4ce3-98fe-78b19676cc88)
 <h1 align="center">Hi 👋, I'm Naufal</h1>
 <h3 align="center">Frontend Developer</h3>
 
