@@ -1,5 +1,4 @@
-<img style="display: none; margin: auto;" src="https://github.com/NaufalArkaan/NaufalArkaan/assets/139612657/a4a5051d-085c-467b-b71d-1c42b47fe9a9"/>
-<h1 align="center">Hi 👋, I'm Naufal</h1>
+<h1 align="center">I'm Naufal</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Website**
