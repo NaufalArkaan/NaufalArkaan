@@ -34,6 +34,18 @@
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL&labelColor=black)
 
 
+# Other Languages and Tools:
+![Static Badge](https://img.shields.io/badge/GITHUB-grey?style=for-the-badge&logo=github&labelColor=black)
+![Static Badge](https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logo=visualstudiocode&labelColor=black)
+![Static Badge](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&labelColor=black)
+
+
+
+
+
+
+
 
 
 
