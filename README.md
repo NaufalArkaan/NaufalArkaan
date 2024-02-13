@@ -21,6 +21,8 @@
 ![Static Badge](https://img.shields.io/badge/VUEJS-green?style=for-the-badge&logo=vue.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NUXTJS-green?style=for-the-badge&logo=nuxt.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NOTION-grey?style=for-the-badge&logo=notion&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NETLIFY-green?style=for-the-badge&logo=netlify&labelColor=black)
+
 
 
 # Languages and Tools BackEnd:
