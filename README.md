@@ -22,6 +22,7 @@
 ![Static Badge](https://img.shields.io/badge/NUXTJS-green?style=for-the-badge&logo=nuxt.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NOTION-grey?style=for-the-badge&logo=notion&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NETLIFY-green?style=for-the-badge&logo=netlify&labelColor=black)
+![Static Badge](https://img.shields.io/badge/REACTJS-blue?style=for-the-badge&logo=react&labelColor=black)
 
 
 
