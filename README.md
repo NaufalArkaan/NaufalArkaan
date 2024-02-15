@@ -35,6 +35,8 @@
 ![Static Badge](https://img.shields.io/badge/LARAGON-blue?style=for-the-badge&logo=laragon&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/VERCEL-grey?style=for-the-badge&logo=vercel&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js&labelColor=black)
+
 
 
 # Other Languages and Tools:
