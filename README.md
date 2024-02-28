@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Website**
 
-- 💬 Ask me about **html, css, javascript, vue js, bootstrap**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **naufalarkaan25@gmail.com**
 
