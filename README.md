@@ -36,6 +36,9 @@
 ![Static Badge](https://img.shields.io/badge/VERCEL-grey?style=for-the-badge&logo=vercel&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PHP%20MY%20ADMIN%20-yellow?style=for-the-badge&logo=phpmyadmin&labelColor=black)
+![Static Badge](https://img.shields.io/badge/COMPOSER%20-gray?style=for-the-badge&logo=composer&labelColor=black)
+
 
 
 
