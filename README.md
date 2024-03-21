@@ -40,6 +40,7 @@
 ![Static Badge](https://img.shields.io/badge/COMPOSER%20-gray?style=for-the-badge&logo=composer&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HAPI-grey?style=for-the-badge&logo=hapi&label=hapi.js%20framework&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NODEMON-green?style=for-the-badge&logo=nodemon&labelColor=black)
 
 
 
