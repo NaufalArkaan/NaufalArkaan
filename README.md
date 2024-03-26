@@ -52,6 +52,7 @@
 ![Static Badge](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CANVA-blue?style=for-the-badge&logo=canva&labelColor=black)
+![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=black)
 
 
 
