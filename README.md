@@ -23,6 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/NOTION-grey?style=for-the-badge&logo=notion&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NETLIFY-green?style=for-the-badge&logo=netlify&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/REACTJS-blue?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NEXTJS-white?style=for-the-badge&logo=next.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TAILWIND%20CSS-blue?style=for-the-badge&logo=tailwindcss&labelColor=black)
 
 
 
