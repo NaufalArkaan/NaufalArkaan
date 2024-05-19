@@ -49,6 +49,10 @@
 
 
 
+# Languages and Tools AI Engineer:
+![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=black)
+![Static Badge](https://img.shields.io/badge/OPENCV-purple?style=for-the-badge&logo=opencv&labelColor=black)
+
 
 # Other Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/GITHUB-grey?style=for-the-badge&logo=github&labelColor=black)
@@ -56,8 +60,7 @@
 ![Static Badge](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CANVA-blue?style=for-the-badge&logo=canva&labelColor=black)
-![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=black)
-![Static Badge](https://img.shields.io/badge/OPENCV-purple?style=for-the-badge&logo=opencv&labelColor=black)
+
 
 
 
