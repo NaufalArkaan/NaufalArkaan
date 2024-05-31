@@ -53,6 +53,7 @@
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/OPENCV-purple?style=for-the-badge&logo=opencv&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy&labelColor=black)
+![Static Badge](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&labelColor=black)
 
 
 # Other Languages and Tools:
