@@ -54,6 +54,7 @@
 ![Static Badge](https://img.shields.io/badge/OPENCV-purple?style=for-the-badge&logo=opencv&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&labelColor=black)
+![Static Badge](https://img.shields.io/badge/caffe%20Deep%20Learning%20-red?style=for-the-badge&label=Caffe&labelColor=black)
 
 
 # Other Languages and Tools:
