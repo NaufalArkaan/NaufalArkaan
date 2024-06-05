@@ -1,6 +1,5 @@
 <h1 align="center">I'm Naufal</h1>
-<h3 align="center">Full Stack Developer</h3>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">Full Stack Developer & AI Engineer</h3>
 
 - 🌱 I’m currently learning **Website**
 
