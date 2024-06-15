@@ -55,6 +55,8 @@
 ![Static Badge](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/caffe%20Deep%20Learning%20-red?style=for-the-badge&label=Caffe&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&labelColor=black)
 
 
 # Other Languages and Tools:
