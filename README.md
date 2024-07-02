@@ -67,7 +67,7 @@
 ![Static Badge](https://img.shields.io/badge/CANVA-blue?style=for-the-badge&logo=canva&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kali%20linux&labelColor=black)
-
+![Static Badge](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&labelColor=black)
 
 
 
