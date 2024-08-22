@@ -69,6 +69,7 @@
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kali%20linux&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Code%20Blocks-green?style=for-the-badge&logo=CodeBlocks&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&labelColor=black)
 
 
 
