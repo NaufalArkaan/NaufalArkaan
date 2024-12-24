@@ -70,6 +70,7 @@
 ![Static Badge](https://img.shields.io/badge/Code%20Blocks-green?style=for-the-badge&logo=CodeBlocks&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NOTION-grey?style=for-the-badge&logo=notion&labelColor=black)
+![Static Badge](https://img.shields.io/badge/ORACLE%20JAVA-orange?style=for-the-badge&logo=oracle&labelColor=black)
 
 
 
