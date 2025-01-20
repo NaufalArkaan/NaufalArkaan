@@ -58,6 +58,13 @@
 ![Static Badge](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&labelColor=black)
 
 
+
+# Languages and Tools Data Science:
+![Static Badge](https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=anaconda&labelColor=black)
+
+
+
+
 # Other Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/GITHUB-grey?style=for-the-badge&logo=github&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logo=visualstudiocode&labelColor=black)
@@ -70,7 +77,9 @@
 ![Static Badge](https://img.shields.io/badge/Code%20Blocks-green?style=for-the-badge&logo=CodeBlocks&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NOTION-grey?style=for-the-badge&logo=notion&labelColor=black)
-![Static Badge](https://img.shields.io/badge/ORACLE%20JAVA-orange?style=for-the-badge&logo=oracle&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Java%20Language-red?style=for-the-badge&label=Java&labelColor=black)
+
+
 
 
 
