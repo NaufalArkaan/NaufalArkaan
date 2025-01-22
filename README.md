@@ -61,6 +61,7 @@
 
 # Languages and Tools Data Science:
 ![Static Badge](https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=anaconda&labelColor=black)
+![Static Badge](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&labelColor=black)
 
 
 
