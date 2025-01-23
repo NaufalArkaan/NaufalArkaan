@@ -83,6 +83,15 @@
 
 
 
+# Most Used Languages ⭐
+
+<div align="center">
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalArkaan&layout=compact&&langs_count=10"/>
+</div>
+
+
+
+
 
 
 
