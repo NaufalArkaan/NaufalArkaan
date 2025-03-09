@@ -79,6 +79,7 @@
 ![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NOTION-grey?style=for-the-badge&logo=notion&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java%20Language-red?style=for-the-badge&label=Java&labelColor=black)
+![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-purple?style=for-the-badge&logo=intellij%20IDEA&labelColor=black)
 
 
 
