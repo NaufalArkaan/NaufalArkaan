@@ -46,7 +46,7 @@
 ![Static Badge](https://img.shields.io/badge/aws.cloud-orange?style=for-the-badge&logo=amazon&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GO-blue?style=for-the-badge&logo=go&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=postgresql&labelColor=black)
-
+![Static Badge](https://img.shields.io/badge/DBEAVER-GREY?style=for-the-badge&logo=dbeaver&labelColor=black)
 
 
 
