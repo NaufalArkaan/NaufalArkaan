@@ -24,6 +24,8 @@
 ![Static Badge](https://img.shields.io/badge/REACTJS-blue?style=for-the-badge&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NEXTJS-white?style=for-the-badge&logo=next.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TAILWIND%20CSS-blue?style=for-the-badge&logo=tailwindcss&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/VERCEL-grey?style=for-the-badge&logo=vercel&labelColor=black)
 
 
 
@@ -34,7 +36,6 @@
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/LARAVEL-red?style=for-the-badge&logo=laravel&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/LARAGON-blue?style=for-the-badge&logo=laragon&labelColor=black)
-![Static Badge](https://img.shields.io/badge/VERCEL-grey?style=for-the-badge&logo=vercel&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PHP%20MY%20ADMIN%20-yellow?style=for-the-badge&logo=phpmyadmin&labelColor=black)
