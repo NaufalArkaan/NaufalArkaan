@@ -31,7 +31,6 @@
 
 # Languages and Tools BackEnd:
 ![Static Badge](https://img.shields.io/badge/FIREBASE-yellow?style=for-the-badge&logo=firebase&labelColor=black)
-![Static Badge](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge&logo=postman&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/LARAVEL-red?style=for-the-badge&logo=laravel&labelColor=black)
@@ -83,6 +82,7 @@
 ![Static Badge](https://img.shields.io/badge/NOTION-grey?style=for-the-badge&logo=notion&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java%20Language-red?style=for-the-badge&label=Java&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-purple?style=for-the-badge&logo=intellij%20IDEA&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&labelColor=black)
 
 
 
