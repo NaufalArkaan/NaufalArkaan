@@ -87,12 +87,11 @@
 
 
 
-# Most Used Languages ⭐
+# 🎮 My GitHub Contribution Pac-Man
 
-<div align="center">
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalArkaan&layout=compact&&langs_count=10"/>
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/pacman-contribution-graph.svg" />
+</p>
 
 
 
