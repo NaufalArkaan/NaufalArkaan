@@ -90,7 +90,7 @@
 # 🎮 My GitHub Contribution Pac-Man
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/output/pacman-contribution-graph.svg" />
 </p>
 
 
