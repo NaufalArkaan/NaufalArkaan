@@ -99,7 +99,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -162,14 +162,14 @@ fingerprintServices      5 mins              █░░░░░░░░░░�
 Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -179,7 +179,7 @@ R                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 01:29:53 UTC
+ Last Updated on 23/02/2026 01:29:11 UTC
 <!--END_SECTION:waka-->
 
 
