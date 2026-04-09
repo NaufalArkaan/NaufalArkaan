@@ -99,7 +99,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -144,16 +144,19 @@ Sunday                   42 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     1 hr 6 mins         █████████████████████████   100.00 % 
+Java                     1 hr 18 mins        █████████████████░░░░░░░░   68.80 % 
+Python                   35 mins             ████████░░░░░░░░░░░░░░░░░   31.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 6 mins         █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 18 mins        █████████████████░░░░░░░░   68.80 % 
+VS Code                  35 mins             ████████░░░░░░░░░░░░░░░░░   31.20 % 
 
 🐱‍💻 Projects: 
-Praktikum                1 hr 6 mins         █████████████████████████   100.00 % 
+Praktikum                1 hr 18 mins        █████████████████░░░░░░░░   68.80 % 
+lomba                    35 mins             ████████░░░░░░░░░░░░░░░░░   31.20 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,7 +176,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 01:52:22 UTC
+ Last Updated on 09/04/2026 01:44:41 UTC
 <!--END_SECTION:waka-->
 
 
