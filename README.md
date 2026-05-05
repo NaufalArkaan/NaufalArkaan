@@ -47,6 +47,7 @@
 ![Static Badge](https://img.shields.io/badge/GO-blue?style=for-the-badge&logo=go&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=postgresql&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/DBEAVER-GREY?style=for-the-badge&logo=dbeaver&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NEST.JS-red?style=for-the-badge&logo=Nestjs&labelColor=black)
 
 
 
@@ -83,7 +84,7 @@
 ![Static Badge](https://img.shields.io/badge/Java%20Language-red?style=for-the-badge&label=Java&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-purple?style=for-the-badge&logo=intellij%20IDEA&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&labelColor=black)
-
+![Static Badge](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&labelColor=black)
 
 
 
