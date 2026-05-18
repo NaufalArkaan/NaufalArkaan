@@ -100,8 +100,6 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%204%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-968.88%20thousand%20lines%20of%20code-blue?style=flat)
@@ -118,45 +116,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌆 Daytime                122 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
-🌃 Evening                201 commits         █████████████░░░░░░░░░░░░   51.94 % 
-🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Tuesday                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Thursday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Saturday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Java                     53 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-IntelliJ IDEA            53 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Praktikum                53 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -174,7 +133,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 02:32:00 UTC
+ Last Updated on 18/05/2026 02:42:14 UTC
 <!--END_SECTION:waka-->
 
 
