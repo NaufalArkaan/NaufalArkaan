@@ -100,6 +100,8 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-961.07%20thousand%20lines%20of%20code-blue?style=flat)
@@ -179,7 +181,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 02:52:45 UTC
+ Last Updated on 08/06/2026 02:55:27 UTC
 <!--END_SECTION:waka-->
 
 
