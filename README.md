@@ -100,7 +100,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -145,8 +145,8 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-TypeScript               2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
+Markdown                 2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
+TypeScript               2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
 Other                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
@@ -181,7 +181,7 @@ Java                     3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2026 02:43:12 UTC
+ Last Updated on 27/06/2026 02:35:19 UTC
 <!--END_SECTION:waka-->
 
 
