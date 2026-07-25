@@ -102,7 +102,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.95%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -119,21 +119,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                98 commits          ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌃 Evening                154 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+🌆 Daytime                95 commits          ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌃 Evening                152 commits         █████████████░░░░░░░░░░░░   50.17 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Tuesday                  57 commits          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Thursday                 71 commits          ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Friday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Thursday                 69 commits          ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Friday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 
 
@@ -143,33 +143,35 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   7 hrs 20 mins       █████████████████████░░░░   83.62 % 
-Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Python                   7 hrs 6 mins        ██████████████████░░░░░░░   70.60 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+PHP                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 58 mins       ████████████████████░░░░░   79.48 % 
-VS Code                  1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Antigravity IDE          8 hrs 16 mins       █████████████████████░░░░   82.11 % 
+VS Code                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 
 🐱‍💻 Projects: 
-dicoding-intel-image-clas6 hrs 34 mins       ███████████████████░░░░░░   74.79 % 
-Satria-Data              2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+dicoding-intel-image-clas6 hrs 34 mins       ████████████████░░░░░░░░░   65.20 % 
+Satria-Data              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+new-sevenman-api         53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+BACKUP_SEVENMAN_DATA     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+new-sevenman-api-v1-old  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Windows                  8 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -179,7 +181,7 @@ Java                     3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:02:18 UTC
+ Last Updated on 25/07/2026 02:02:12 UTC
 <!--END_SECTION:waka-->
 
 
