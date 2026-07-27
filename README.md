@@ -100,7 +100,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -145,25 +145,25 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   7 hrs 6 mins        ████████████████░░░░░░░░░   64.14 % 
-Text                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-PHP                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Python                   7 hrs 6 mins        ████████████████░░░░░░░░░   63.60 % 
+Text                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PHP                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 17 mins       █████████████████████░░░░   83.75 % 
-VS Code                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Antigravity IDE          9 hrs 22 mins       █████████████████████░░░░   83.89 % 
+VS Code                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 
 🐱‍💻 Projects: 
-dicoding-intel-image-clas6 hrs 34 mins       ███████████████░░░░░░░░░░   59.24 % 
-Satria-Data              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-new-sevenman-api         1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-BACKUP_SEVENMAN_DATA     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-ext                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+dicoding-intel-image-clas6 hrs 34 mins       ███████████████░░░░░░░░░░   58.73 % 
+Satria-Data              1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+new-sevenman-api         1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+BACKUP_SEVENMAN_DATA     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+ext                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 💻 Operating System: 
-Windows                  11 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -183,7 +183,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 02:06:34 UTC
+ Last Updated on 27/07/2026 02:14:02 UTC
 <!--END_SECTION:waka-->
 
 
