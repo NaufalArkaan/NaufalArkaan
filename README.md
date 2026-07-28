@@ -100,7 +100,9 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2038%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -145,25 +147,47 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   7 hrs 6 mins        ████████████████░░░░░░░░░   63.60 % 
-Text                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-PHP                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   6 hrs 19 mins       ███████████████░░░░░░░░░░   61.37 % 
+Text                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+PHP                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 22 mins       █████████████████████░░░░   83.89 % 
-VS Code                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Antigravity IDE          8 hrs 30 mins       █████████████████████░░░░   82.52 % 
+VS Code                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 
 🐱‍💻 Projects: 
-dicoding-intel-image-clas6 hrs 34 mins       ███████████████░░░░░░░░░░   58.73 % 
-Satria-Data              1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-new-sevenman-api         1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-BACKUP_SEVENMAN_DATA     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-ext                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+dicoding-intel-image-clas6 hrs 34 mins       ████████████████░░░░░░░░░   63.71 % 
+new-sevenman-api         1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+BACKUP_SEVENMAN_DATA     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Satria-Data              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+ext                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Windows                  11 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 18 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 22 mins (71.56%)
+
+✍️ 122 lines written by AI, 356 lines written by hand (25.52% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 76 AI Prompts
+
+Gemini                   126 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 25.52% of written lines came from AI
+📄 Detailed Prompter — average 646 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 79.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -183,7 +207,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:14:02 UTC
+ Last Updated on 28/07/2026 01:54:52 UTC
 <!--END_SECTION:waka-->
 
 
