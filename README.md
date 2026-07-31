@@ -147,30 +147,30 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Text                     1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Python                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-PHP                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Text                     1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Other                    43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Python                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+PHP                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 23 mins       █████████████████████████   100.00 % 
+Antigravity IDE          3 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-new-sevenman-api         1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-BACKUP_SEVENMAN_DATA     1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-Satria-Data              45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-dicoding-intel-image-clas43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-ext                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+new-sevenman-api         1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+BACKUP_SEVENMAN_DATA     1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
+Satria-Data              45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+ext                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+new-sevenman-api-v1-old  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 💻 Operating System: 
-Windows                  4 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 53 mins (88.51%)
+⏱ AI Coding Time: 3 hrs 11 mins (87.66%)
 
 ✍️ 0 lines written by AI, 107 lines written by hand (0.0% AI-written)
 
@@ -178,13 +178,13 @@ Windows                  4 hrs 23 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 55 AI Prompts
+🧠 7 AI Sessions, 51 AI Prompts
 
 Gemini                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 629 characters per prompt
+📄 Detailed Prompter — average 641 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 99.09% of changed lines were hand-edited
 ```
@@ -206,7 +206,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 01:49:23 UTC
+ Last Updated on 31/07/2026 02:07:16 UTC
 <!--END_SECTION:waka-->
 
 
