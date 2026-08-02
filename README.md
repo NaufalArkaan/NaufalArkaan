@@ -106,7 +106,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.58%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.06%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -123,21 +123,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-🌆 Daytime                95 commits          ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌃 Evening                152 commits         █████████████░░░░░░░░░░░░   50.17 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+🌆 Daytime                95 commits          ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌃 Evening                151 commits         ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Thursday                 69 commits          ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Friday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 69 commits          ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 ```
 
 
@@ -147,53 +147,47 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Text                     32 mins             ███████████░░░░░░░░░░░░░░   43.65 % 
-Other                    29 mins             ██████████░░░░░░░░░░░░░░░   40.39 % 
-Bash                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Text                     9 mins              ████████████████░░░░░░░░░   62.00 % 
+Other                    5 mins              ██████████░░░░░░░░░░░░░░░   38.00 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 13 mins        █████████████████████████   100.00 % 
+Antigravity IDE          14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BACKUP_SEVENMAN_DATA     36 mins             ████████████░░░░░░░░░░░░░   49.05 % 
-ext                      19 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-new-sevenman-api         17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-new-sevenman-api-v1-old  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+BACKUP_SEVENMAN_DATA     14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (85.62%)
+⏱ AI Coding Time: 10 mins (69.79%)
 
-✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 38 AI Prompts
-
-Gemini                   4 lines             █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 12 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 800 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 93.33% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 400 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Jupyter Notebook         8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -203,7 +197,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 02:08:41 UTC
+ Last Updated on 02/08/2026 02:05:23 UTC
 <!--END_SECTION:waka-->
 
 
