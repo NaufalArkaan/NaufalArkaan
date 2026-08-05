@@ -100,9 +100,9 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,44 +147,44 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 35 mins       ███████████████░░░░░░░░░░   59.47 % 
-Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Prisma                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Python                   2 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.05 % 
+HTML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+JavaScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 22 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sehatjeru-ai             2 hrs 53 mins       █████████████████░░░░░░░░   66.31 % 
-ai-model                 1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.45 % 
-BACKUP_SEVENMAN_DATA     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+sehatjeru-ai             2 hrs 53 mins       █████████████░░░░░░░░░░░░   51.35 % 
+ai-model                 1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+web baru                 1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 54 mins (89.36%)
+⏱ AI Coding Time: 5 hrs 11 mins (91.98%)
 
-✍️ 22 lines written by AI, 66 lines written by hand (25.0% AI-written)
+✍️ 22 lines written by AI, 116 lines written by hand (15.94% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 44 AI Prompts
+🧠 6 AI Sessions, 56 AI Prompts
 
 Gemini                   30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.0% of written lines came from AI
-📄 Detailed Prompter — average 935 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.94% of written lines came from AI
+📄 Detailed Prompter — average 792 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 83.96% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -204,7 +204,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:53:13 UTC
+ Last Updated on 05/08/2026 01:53:38 UTC
 <!--END_SECTION:waka-->
 
 
