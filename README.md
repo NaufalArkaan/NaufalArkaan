@@ -100,10 +100,6 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2017%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2025%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-428.90%20thousand%20lines%20of%20code-blue?style=flat)
@@ -120,73 +116,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-🌆 Daytime                73 commits          ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-🌃 Evening                144 commits         █████████████░░░░░░░░░░░░   52.55 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Tuesday                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Wednesday                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Thursday                 63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Python                   2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
-TypeScript               2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Prisma                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-
-🔥 Editors: 
-Antigravity IDE          8 hrs 1 min         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-sehatjeru-ai             5 hrs 16 mins       ████████████████░░░░░░░░░   65.77 % 
-ai-model                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-web baru                 1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-
-💻 Operating System: 
-Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 33 mins (94.21%)
-
-✍️ 106 lines written by AI, 121 lines written by hand (46.7% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 76 AI Prompts
-
-Gemini                   129 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.7% of written lines came from AI
-📄 Detailed Prompter — average 684 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 62.17% of changed lines were hand-edited
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -204,7 +133,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:55:38 UTC
+ Last Updated on 07/08/2026 02:18:37 UTC
 <!--END_SECTION:waka-->
 
 
