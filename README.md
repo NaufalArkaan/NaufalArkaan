@@ -147,44 +147,43 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.75 % 
-Python                   1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-HTML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Prisma                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+TypeScript               1 hr 49 mins        ████████████░░░░░░░░░░░░░   49.17 % 
+HTML                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+JavaScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Prisma                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 21 mins       █████████████████████████   100.00 % 
+Antigravity IDE          3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sehatjeru-ai             4 hrs 20 mins       █████████████████░░░░░░░░   68.22 % 
-web baru                 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-ai-model                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+sehatjeru-ai             2 hrs 22 mins       ████████████████░░░░░░░░░   64.17 % 
+web baru                 1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   35.83 % 
 
 💻 Operating System: 
-Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 59 mins (94.05%)
+⏱ AI Coding Time: 3 hrs 39 mins (98.56%)
 
-✍️ 104 lines written by AI, 121 lines written by hand (46.22% AI-written)
+✍️ 84 lines written by AI, 55 lines written by hand (60.43% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 63 AI Prompts
+🧠 2 AI Sessions, 32 AI Prompts
 
-Gemini                   119 lines           █████████████████████████   100.00 % 
+Gemini                   99 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.22% of written lines came from AI
-📄 Detailed Prompter — average 669 characters per prompt
+⚖️ Balanced with AI — 60.43% of written lines came from AI
+📝 Concise Prompter — average 339 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 50.42% of changed lines were hand-edited
+🚀 High AI Trust — 35.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -204,7 +203,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 01:11:31 UTC
+ Last Updated on 11/08/2026 01:10:25 UTC
 <!--END_SECTION:waka-->
 
 
