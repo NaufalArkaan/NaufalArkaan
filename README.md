@@ -106,13 +106,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2026
+> 🏆 111 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,21 +123,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-🌆 Daytime                74 commits          ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌃 Evening                139 commits         █████████████░░░░░░░░░░░░   51.48 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+🌞 Morning                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌆 Daytime                77 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌃 Evening                139 commits         █████████████░░░░░░░░░░░░   50.92 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Tuesday                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Thursday                 64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Friday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Tuesday                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Thursday                 64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Friday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 ```
 
 
@@ -147,41 +147,39 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     11 mins             ███████████░░░░░░░░░░░░░░   45.25 % 
-Text                     9 mins              █████████░░░░░░░░░░░░░░░░   36.49 % 
-JavaScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+HTML                     30 mins             █████████████░░░░░░░░░░░░   50.92 % 
+JavaScript               28 mins             ████████████░░░░░░░░░░░░░   47.13 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Antigravity IDE          26 mins             █████████████████████████   100.00 % 
+Antigravity IDE          1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaporMasyarakat          16 mins             ████████████████░░░░░░░░░   63.51 % 
-sehatjeru-ai             9 mins              █████████░░░░░░░░░░░░░░░░   36.49 % 
+LaporMasyarakat          1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (63.51%)
+⏱ AI Coding Time: 55 mins (91.26%)
 
-✍️ 119 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 142 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 13 AI Prompts
 
-Gemini                   126 lines           █████████████████████████   100.00 % 
+Gemini                   161 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 280 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,107 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -202,7 +200,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 00:50:56 UTC
+ Last Updated on 20/08/2026 00:50:44 UTC
 <!--END_SECTION:waka-->
 
 
