@@ -147,42 +147,39 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     57 mins             ███████████████░░░░░░░░░░   60.96 % 
-JavaScript               33 mins             █████████░░░░░░░░░░░░░░░░   35.35 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+HTML                     15 mins             █████████████████████░░░░   83.64 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 34 mins        █████████████████████████   100.00 % 
+Antigravity IDE          18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-web-profil-desa          1 hr 21 mins        ██████████████████████░░░   86.11 % 
-web-2D                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+web-2D                   13 mins             ██████████████████░░░░░░░   70.69 % 
+web-profil-desa          5 mins              ███████░░░░░░░░░░░░░░░░░░   29.31 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (77.67%)
+⏱ AI Coding Time: 3 mins (20.86%)
 
-✍️ 166 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
-
-Gemini                   219 lines           █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 1,030 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -202,7 +199,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 08:24:53 UTC
+ Last Updated on 29/08/2026 05:05:33 UTC
 <!--END_SECTION:waka-->
 
 
