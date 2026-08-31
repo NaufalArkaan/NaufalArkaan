@@ -147,25 +147,23 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     15 mins             █████████████████████░░░░   83.64 % 
-Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+HTML                     10 mins             ███████████████████░░░░░░   77.61 % 
+Other                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 
 🔥 Editors: 
-Antigravity IDE          18 mins             █████████████████████████   100.00 % 
+Antigravity IDE          13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-web-2D                   13 mins             ██████████████████░░░░░░░   70.69 % 
-web-profil-desa          5 mins              ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+web-2D                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (20.86%)
+⏱ AI Coding Time: 2 mins (22.39%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -173,12 +171,12 @@ Windows                  18 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,030 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,297 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -199,7 +197,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 02:55:59 UTC
+ Last Updated on 31/08/2026 02:49:22 UTC
 <!--END_SECTION:waka-->
 
 
