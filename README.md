@@ -106,38 +106,38 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-427.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-428.68%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 124 Contributions in the Year 2026
+> 🏆 126 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 78 Public Repositories 
+> 📜 79 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-🌆 Daytime                80 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌃 Evening                141 commits         █████████████░░░░░░░░░░░░   50.36 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+🌞 Morning                51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+🌆 Daytime                80 commits          ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+🌃 Evening                141 commits         █████████████░░░░░░░░░░░░   50.18 % 
+🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Tuesday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Tuesday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 ```
 
 
@@ -147,28 +147,31 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     55 mins             █████████████████████░░░░   84.37 % 
-JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+HTML                     1 hr 30 mins        ██████████████████░░░░░░░   73.07 % 
+JavaScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 6 mins         █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 6 mins         █████████████░░░░░░░░░░░░   53.63 % 
+VS Code                  57 mins             ████████████░░░░░░░░░░░░░   46.37 % 
 
 🐱‍💻 Projects: 
-Web-OA                   1 hr                ███████████████████████░░   91.16 % 
-web-profil-desa          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-web-2D                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Web-OA                   1 hr                ████████████░░░░░░░░░░░░░   48.88 % 
+XSS-EX                   57 mins             ████████████░░░░░░░░░░░░░   46.37 % 
+web-profil-desa          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+web-2D                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (81.4%)
+⏱ AI Coding Time: 53 mins (43.65%)
 
-✍️ 0 lines written by AI, 164 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,850 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -186,11 +189,11 @@ Windows                  1 hr 6 mins         ███████████�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
@@ -200,7 +203,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 02:18:53 UTC
+ Last Updated on 07/09/2026 02:16:00 UTC
 <!--END_SECTION:waka-->
 
 
