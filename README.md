@@ -147,31 +147,29 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 30 mins        ██████████████████░░░░░░░   73.07 % 
-JavaScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+HTML                     1 hr 24 mins        ██████████████████░░░░░░░   71.73 % 
+JavaScript               30 mins             ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 6 mins         █████████████░░░░░░░░░░░░   53.63 % 
-VS Code                  57 mins             ████████████░░░░░░░░░░░░░   46.37 % 
+Antigravity IDE          1 hr                █████████████░░░░░░░░░░░░   51.32 % 
+VS Code                  57 mins             ████████████░░░░░░░░░░░░░   48.68 % 
 
 🐱‍💻 Projects: 
-Web-OA                   1 hr                ████████████░░░░░░░░░░░░░   48.88 % 
-XSS-EX                   57 mins             ████████████░░░░░░░░░░░░░   46.37 % 
-web-profil-desa          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-web-2D                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Web-OA                   1 hr                █████████████░░░░░░░░░░░░   51.32 % 
+XSS-EX                   57 mins             ████████████░░░░░░░░░░░░░   48.68 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (43.65%)
+⏱ AI Coding Time: 53 mins (45.83%)
 
-✍️ 0 lines written by AI, 2,850 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,777 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -203,7 +201,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 02:30:17 UTC
+ Last Updated on 10/09/2026 02:31:03 UTC
 <!--END_SECTION:waka-->
 
 
