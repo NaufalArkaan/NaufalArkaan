@@ -147,41 +147,25 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 24 mins        ██████████████████░░░░░░░   71.73 % 
-JavaScript               30 mins             ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+HTML                     34 mins             ███████████████░░░░░░░░░░   60.02 % 
+JavaScript               21 mins             ██████████░░░░░░░░░░░░░░░   38.25 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr                █████████████░░░░░░░░░░░░   51.32 % 
-VS Code                  57 mins             ████████████░░░░░░░░░░░░░   48.68 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Web-OA                   1 hr                █████████████░░░░░░░░░░░░   51.32 % 
-XSS-EX                   57 mins             ████████████░░░░░░░░░░░░░   48.68 % 
+XSS-EX                   57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (45.83%)
-
-✍️ 0 lines written by AI, 2,777 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 25 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 535 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -201,7 +185,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:31:03 UTC
+ Last Updated on 11/09/2026 02:25:28 UTC
 <!--END_SECTION:waka-->
 
 
