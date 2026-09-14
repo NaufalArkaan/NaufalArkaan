@@ -147,19 +147,16 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     34 mins             ███████████████░░░░░░░░░░   60.02 % 
-JavaScript               21 mins             ██████████░░░░░░░░░░░░░░░   38.25 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-XSS-EX                   57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -185,7 +182,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 02:32:17 UTC
+ Last Updated on 14/09/2026 02:48:08 UTC
 <!--END_SECTION:waka-->
 
 
