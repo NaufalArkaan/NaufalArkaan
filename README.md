@@ -147,40 +147,41 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         ██████████████████████░░░   87.87 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript               1 hr 5 mins         ███████████████████░░░░░░   75.85 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 9 mins         ████████████████████████░   94.20 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Antigravity IDE          1 hr 21 mins        ████████████████████████░   95.00 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🐱‍💻 Projects: 
-untuk-mawar              1 hr 9 mins         ████████████████████████░   94.20 % 
-project_mobile           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+untuk-mawar              1 hr 9 mins         ████████████████████░░░░░   81.31 % 
+project_mobile           16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (51.84%)
+⏱ AI Coding Time: 46 mins (53.78%)
 
-✍️ 0 lines written by AI, 121 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 143 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 10 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,920 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 2,347 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -201,7 +202,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 02:36:47 UTC
+ Last Updated on 19/09/2026 02:36:06 UTC
 <!--END_SECTION:waka-->
 
 
