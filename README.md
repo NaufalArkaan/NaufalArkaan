@@ -100,9 +100,9 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,42 +147,44 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         ███████████████████░░░░░░   75.85 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JavaScript               1 hr 5 mins         █████████████████░░░░░░░░   67.60 % 
+TypeScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 21 mins        ████████████████████████░   95.00 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Antigravity IDE          1 hr 32 mins        ████████████████████████░   95.54 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🐱‍💻 Projects: 
-untuk-mawar              1 hr 9 mins         ████████████████████░░░░░   81.31 % 
-project_mobile           16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+untuk-mawar              1 hr 9 mins         ██████████████████░░░░░░░   72.47 % 
+project_mobile           26 mins             ███████░░░░░░░░░░░░░░░░░░   27.53 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (53.78%)
+⏱ AI Coding Time: 56 mins (58.71%)
 
-✍️ 0 lines written by AI, 143 lines written by hand (0.0% AI-written)
+✍️ 4 lines written by AI, 143 lines written by hand (2.72% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 15 AI Prompts
+
+Gemini                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,347 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.72% of written lines came from AI
+📚 Verbose Prompter — average 2,251 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 97.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -202,7 +204,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 02:36:06 UTC
+ Last Updated on 20/09/2026 02:48:02 UTC
 <!--END_SECTION:waka-->
 
 
