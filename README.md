@@ -100,7 +100,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2027%20mins-blue?style=flat)
 
@@ -147,29 +147,30 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               36 mins             ████████████████░░░░░░░░░   65.33 % 
-JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-TSConfig                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+HTML                     1 hr 1 min          ████████████░░░░░░░░░░░░░   47.71 % 
+TypeScript               36 mins             ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+CSS                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-Antigravity IDE          51 mins             ███████████████████████░░   92.34 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+VS Code                  1 hr 16 mins        ███████████████░░░░░░░░░░   59.71 % 
+Antigravity IDE          51 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
 
 🐱‍💻 Projects: 
-project_mobile           56 mins             █████████████████████████   100.00 % 
+Codelab                  1 hr 16 mins        ███████████████░░░░░░░░░░   59.71 % 
+project_mobile           51 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (32.33%)
+⏱ AI Coding Time: 18 mins (14.11%)
 
-✍️ 4 lines written by AI, 24 lines written by hand (14.29% AI-written)
+✍️ 4 lines written by AI, 847 lines written by hand (0.47% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -180,10 +181,10 @@ Windows                  56 mins             ███████████�
 Gemini                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.29% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.47% of written lines came from AI
 📄 Detailed Prompter — average 912 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 86.21% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -203,7 +204,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 02:45:51 UTC
+ Last Updated on 23/09/2026 02:46:22 UTC
 <!--END_SECTION:waka-->
 
 
