@@ -112,11 +112,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2026
+> 🏆 129 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 80 Public Repositories 
+> 📜 81 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -147,30 +147,31 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 1 min          ████████████░░░░░░░░░░░░░   47.71 % 
-TypeScript               36 mins             ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-CSS                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+HTML                     1 hr 1 min          █████████░░░░░░░░░░░░░░░░   37.22 % 
+TypeScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Python                   36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        ███████████████░░░░░░░░░░   59.71 % 
-Antigravity IDE          51 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
+VS Code                  1 hr 52 mins        █████████████████░░░░░░░░   68.56 % 
+Antigravity IDE          51 mins             ████████░░░░░░░░░░░░░░░░░   31.44 % 
 
 🐱‍💻 Projects: 
-Codelab                  1 hr 16 mins        ███████████████░░░░░░░░░░   59.71 % 
-project_mobile           51 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
+Codelab                  1 hr 16 mins        ████████████░░░░░░░░░░░░░   46.58 % 
+project_mobile           51 mins             ████████░░░░░░░░░░░░░░░░░   31.44 % 
+Tugas1-5D-20241037011002036 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (14.11%)
+⏱ AI Coding Time: 18 mins (11.01%)
 
-✍️ 4 lines written by AI, 847 lines written by hand (0.47% AI-written)
+✍️ 4 lines written by AI, 851 lines written by hand (0.47% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -204,7 +205,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 02:35:55 UTC
+ Last Updated on 25/09/2026 02:53:27 UTC
 <!--END_SECTION:waka-->
 
 
