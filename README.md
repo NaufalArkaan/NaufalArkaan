@@ -100,7 +100,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2027%20mins-blue?style=flat)
 
@@ -147,44 +147,44 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 1 min          █████████░░░░░░░░░░░░░░░░   37.22 % 
-TypeScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Python                   36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+HTML                     1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.08 % 
+Python                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+TypeScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████░░░░░░░░   68.56 % 
-Antigravity IDE          51 mins             ████████░░░░░░░░░░░░░░░░░   31.44 % 
+VS Code                  1 hr 52 mins        ██████████████████░░░░░░░   73.83 % 
+Antigravity IDE          40 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
 
 🐱‍💻 Projects: 
-Codelab                  1 hr 16 mins        ████████████░░░░░░░░░░░░░   46.58 % 
-project_mobile           51 mins             ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Tugas1-5D-20241037011002036 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Codelab                  1 hr 16 mins        █████████████░░░░░░░░░░░░   50.16 % 
+project_mobile           40 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Tugas1-5D-20241037011002036 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (11.01%)
+⏱ AI Coding Time: 10 mins (6.78%)
 
-✍️ 4 lines written by AI, 851 lines written by hand (0.47% AI-written)
+✍️ 4 lines written by AI, 829 lines written by hand (0.48% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 Gemini                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.47% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.48% of written lines came from AI
 📄 Detailed Prompter — average 912 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 99.73% of changed lines were hand-edited
 ```
 
@@ -205,7 +205,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:53:27 UTC
+ Last Updated on 26/09/2026 02:56:42 UTC
 <!--END_SECTION:waka-->
 
 
