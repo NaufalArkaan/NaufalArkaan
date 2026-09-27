@@ -147,45 +147,30 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.08 % 
-Python                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-TypeScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.13 % 
+HTML                     1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        ██████████████████░░░░░░░   73.83 % 
-Antigravity IDE          40 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+VS Code                  3 hrs 6 mins        ██████████████████████░░░   86.30 % 
+Antigravity IDE          29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 
 🐱‍💻 Projects: 
-Codelab                  1 hr 16 mins        █████████████░░░░░░░░░░░░   50.16 % 
-project_mobile           40 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Tugas1-5D-20241037011002036 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Codelab                  1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
+project_mobile_modul1    1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Tugas1-5D-20241037011002036 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+project_mobile           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 
 💻 Operating System: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (6.78%)
-
-✍️ 4 lines written by AI, 829 lines written by hand (0.48% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Gemini                   4 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.48% of written lines came from AI
-📄 Detailed Prompter — average 912 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.73% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -205,7 +190,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 02:56:42 UTC
+ Last Updated on 27/09/2026 02:59:40 UTC
 <!--END_SECTION:waka-->
 
 
