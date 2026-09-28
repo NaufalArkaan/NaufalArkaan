@@ -100,7 +100,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2027%20mins-blue?style=flat)
 
@@ -147,24 +147,24 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.13 % 
-HTML                     1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+TypeScript               1 hr 41 mins        ███████████░░░░░░░░░░░░░░   44.07 % 
+HTML                     1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        ██████████████████████░░░   86.30 % 
-Antigravity IDE          29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+VS Code                  3 hrs 21 mins       ██████████████████████░░░   87.17 % 
+Antigravity IDE          29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 
 🐱‍💻 Projects: 
-Codelab                  1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
-project_mobile_modul1    1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.96 % 
-Tugas1-5D-20241037011002036 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-project_mobile           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+project_mobile_modul1    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.84 % 
+Codelab                  1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
+Tugas1-5D-20241037011002036 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+project_mobile           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -190,7 +190,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 02:59:40 UTC
+ Last Updated on 28/09/2026 02:58:19 UTC
 <!--END_SECTION:waka-->
 
 
