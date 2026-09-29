@@ -100,44 +100,44 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-434.14%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-440.60%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2026
+> 🏆 132 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 81 Public Repositories 
+> 📜 82 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-🌆 Daytime                80 commits          ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-🌃 Evening                142 commits         █████████████░░░░░░░░░░░░   50.35 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+🌞 Morning                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌆 Daytime                81 commits          ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+🌃 Evening                142 commits         ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Tuesday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Thursday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Tuesday                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Thursday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 
 
@@ -147,21 +147,19 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        ███████████░░░░░░░░░░░░░░   44.07 % 
-HTML                     1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+HTML                     1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   40.05 % 
+TypeScript               1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   34.59 % 
 Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       ██████████████████████░░░   87.17 % 
-Antigravity IDE          29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project_mobile_modul1    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.84 % 
-Codelab                  1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
+Codelab                  1 hr 51 mins        ████████████░░░░░░░░░░░░░   48.44 % 
+project_mobile_modul1    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.85 % 
 Tugas1-5D-20241037011002036 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-project_mobile           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 
 💻 Operating System: 
 Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
@@ -176,11 +174,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Jupyter Notebook         8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -190,7 +188,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 02:58:19 UTC
+ Last Updated on 29/09/2026 03:38:43 UTC
 <!--END_SECTION:waka-->
 
 
