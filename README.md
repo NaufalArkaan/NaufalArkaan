@@ -100,19 +100,19 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-440.60%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-440.63%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2026
+> 🏆 133 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,21 +123,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-🌆 Daytime                81 commits          ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌃 Evening                142 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+🌞 Morning                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+🌆 Daytime                81 commits          ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+🌃 Evening                143 commits         █████████████░░░░░░░░░░░░   50.18 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Tuesday                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Tuesday                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 ```
 
 
@@ -147,22 +147,25 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   40.05 % 
-TypeScript               1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   34.59 % 
-Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TypeScript               1 hr 55 mins        ███████████████░░░░░░░░░░   60.15 % 
+Python                   36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+HTML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   98.67 % 
+Antigravity IDE          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-Codelab                  1 hr 51 mins        ████████████░░░░░░░░░░░░░   48.44 % 
-project_mobile_modul1    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.85 % 
-Tugas1-5D-20241037011002036 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+project_mobile_modul1    1 hr 50 mins        ██████████████░░░░░░░░░░░   57.70 % 
+Tugas1-5D-20241037011002036 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Codelab                  34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+modul1_codelab5          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Modul2_Vibe_Secure       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -188,7 +191,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 03:38:43 UTC
+ Last Updated on 30/09/2026 03:25:05 UTC
 <!--END_SECTION:waka-->
 
 
