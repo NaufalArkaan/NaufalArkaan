@@ -100,9 +100,9 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,47 +147,47 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Python                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Other                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-HTML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+TypeScript               3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Other                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Python                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+HTML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 35 mins       ███████████████████░░░░░░   76.53 % 
-VS Code                  2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Antigravity IDE          7 hrs 29 mins       ███████████████████░░░░░░   77.88 % 
+VS Code                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
 
 🐱‍💻 Projects: 
-CareFam                  5 hrs 37 mins       ██████████████░░░░░░░░░░░   56.60 % 
-Modul_1                  1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Demo_Modul1              1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-SMSML_NaufalArkaan       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Modul4_Vibe_LBS          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+CareFam                  5 hrs 18 mins       ██████████████░░░░░░░░░░░   55.15 % 
+Modul_1                  1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Demo_Modul1              1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+SMSML_NaufalArkaan       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Modul4_Vibe_LBS          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Windows                  9 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 30 mins (35.26%)
+⏱ AI Coding Time: 3 hrs 23 mins (35.28%)
 
-✍️ 3,742 lines written by AI, 2,544 lines written by hand (59.53% AI-written)
+✍️ 4,432 lines written by AI, 2,438 lines written by hand (64.51% AI-written)
 
-🔤 3,371,235 Input Tokens, 184,541 Output Tokens
+🔤 3,166,997 Input Tokens, 206,631 Output Tokens
 
-💵 $3.79 Estimated AI Cost This Week
+💵 $4.12 Estimated AI Cost This Week
 
 🧠 8 AI Sessions, 25 AI Prompts
 
-Gemini                   3,743 lines         █████████████████████████   100.00 % 
+Gemini                   4,433 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.53% of written lines came from AI
-📄 Detailed Prompter — average 969 characters per prompt
+⚖️ Balanced with AI — 64.51% of written lines came from AI
+📄 Detailed Prompter — average 870 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 44.95% of changed lines were hand-edited
+🚀 High AI Trust — 39.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -207,7 +207,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 03:55:41 UTC
+ Last Updated on 09/10/2026 04:00:57 UTC
 <!--END_SECTION:waka-->
 
 
