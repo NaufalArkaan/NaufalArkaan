@@ -100,9 +100,9 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,47 +147,47 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.39 % 
-Other                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Python                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-HTML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+TypeScript               3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.76 % 
+Python                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+HTML                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 29 mins       ███████████████████░░░░░░   77.88 % 
-VS Code                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Antigravity IDE          5 hrs 16 mins       ██████████████████░░░░░░░   71.28 % 
+VS Code                  2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
 
 🐱‍💻 Projects: 
-CareFam                  5 hrs 18 mins       ██████████████░░░░░░░░░░░   55.15 % 
-Modul_1                  1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Demo_Modul1              1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-SMSML_NaufalArkaan       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Modul4_Vibe_LBS          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+CareFam                  3 hrs 44 mins       █████████████░░░░░░░░░░░░   50.41 % 
+Modul_1                  1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Demo_Modul1              1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Modul4_Vibe_LBS          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+web-digital-resume       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Windows                  9 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (35.28%)
+⏱ AI Coding Time: 1 hr 49 mins (24.62%)
 
 ✍️ 4,432 lines written by AI, 2,438 lines written by hand (64.51% AI-written)
 
-🔤 3,166,997 Input Tokens, 206,631 Output Tokens
+🔤 2,510,447 Input Tokens, 162,951 Output Tokens
 
-💵 $4.12 Estimated AI Cost This Week
+💵 $3.54 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 25 AI Prompts
+🧠 6 AI Sessions, 25 AI Prompts
 
 Gemini                   4,433 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 64.51% of written lines came from AI
 📄 Detailed Prompter — average 870 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 39.96% of changed lines were hand-edited
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 39.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -207,7 +207,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 04:00:57 UTC
+ Last Updated on 10/10/2026 03:45:58 UTC
 <!--END_SECTION:waka-->
 
 
