@@ -100,9 +100,9 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,31 +147,31 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
-CSV                      57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-HTML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-JavaScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+TypeScript               1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   30.49 % 
+CSV                      57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+HTML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+JavaScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 27 mins       ██████████████████░░░░░░░   70.93 % 
-VS Code                  1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Antigravity IDE          3 hrs 26 mins       ██████████████████░░░░░░░   70.83 % 
+VS Code                  1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
 
 🐱‍💻 Projects: 
-Implementasi-MIR-Trial   1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   36.36 % 
-Codelab                  54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-project_mobile_modul2_cod53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Demo_Modul2              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-project_mobile_modul2    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Implementasi-MIR-Trial   1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
+project_mobile_modul2_cod53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Codelab                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Demo_Modul2              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+project_mobile_modul2    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 💻 Operating System: 
-Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 40 mins (54.83%)
+⏱ AI Coding Time: 2 hrs 40 mins (55.01%)
 
 ✍️ 3,008 lines written by AI, 127 lines written by hand (95.95% AI-written)
 
@@ -207,7 +207,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 02:37:32 UTC
+ Last Updated on 17/10/2026 02:29:52 UTC
 <!--END_SECTION:waka-->
 
 
