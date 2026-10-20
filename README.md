@@ -147,47 +147,47 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   40.39 % 
-HTML                     1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.45 % 
+HTML                     1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   39.61 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 11 mins       ███████████████░░░░░░░░░░   60.81 % 
-VS Code                  1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   39.19 % 
+Antigravity IDE          3 hrs 14 mins       █████████████████████░░░░   83.83 % 
+VS Code                  37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 
 🐱‍💻 Projects: 
-Demo_Modul2              1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-project_mobile_modul2_cod53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Codelab                  50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-project_mobile_modul2    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-CareFam                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Demo_Modul2              1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   40.92 % 
+Modul5_Vibe_KTP          58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+project_mobile_modul2_cod36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Implementasi-MIR-Trial   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+CareFam                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (35.09%)
+⏱ AI Coding Time: 2 hrs 14 mins (58.09%)
 
-✍️ 276 lines written by AI, 124 lines written by hand (69.0% AI-written)
+✍️ 5,183 lines written by AI, 37 lines written by hand (99.29% AI-written)
 
-🔤 1,207,300 Input Tokens, 167,887 Output Tokens
+🔤 1,687,689 Input Tokens, 247,719 Output Tokens
 
-💵 $3.99 Estimated AI Cost This Week
+💵 $5.72 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 19 AI Prompts
+🧠 6 AI Sessions, 27 AI Prompts
 
-Gemini                   280 lines           █████████████████████████   100.00 % 
+Gemini                   5,189 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.0% of written lines came from AI
-📚 Verbose Prompter — average 1,726 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 50.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.29% of written lines came from AI
+📄 Detailed Prompter — average 1,252 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -207,7 +207,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 02:44:00 UTC
+ Last Updated on 20/10/2026 02:55:36 UTC
 <!--END_SECTION:waka-->
 
 
