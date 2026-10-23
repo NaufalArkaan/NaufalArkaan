@@ -100,7 +100,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2025%20mins-blue?style=flat)
 
@@ -147,47 +147,47 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.55 % 
-Python                   1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-HTML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Text                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+TypeScript               2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Python                   1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+HTML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Text                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs               ██████████████████░░░░░░░   70.90 % 
-VS Code                  2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Antigravity IDE          4 hrs 45 mins       █████████████████░░░░░░░░   69.00 % 
+VS Code                  2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.00 % 
 
 🐱‍💻 Projects: 
-CareFam                  2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Modul_2_Demo             2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-Modul5_Vibe_KTP          1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Demo_Modul2              1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Implementasi-MIR-Trial   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Modul_2_Demo             2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+CareFam                  1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Modul5_Vibe_KTP          1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Demo_Modul2              1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Implementasi-MIR-Trial   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-Windows                  7 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (42.35%)
+⏱ AI Coding Time: 2 hrs 45 mins (39.88%)
 
-✍️ 5,133 lines written by AI, 931 lines written by hand (84.65% AI-written)
+✍️ 4,914 lines written by AI, 930 lines written by hand (84.09% AI-written)
 
-🔤 1,987,283 Input Tokens, 254,039 Output Tokens
+🔤 1,909,461 Input Tokens, 267,951 Output Tokens
 
-💵 $6.39 Estimated AI Cost This Week
+💵 $7.03 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 37 AI Prompts
+🧠 7 AI Sessions, 30 AI Prompts
 
-Gemini                   5,174 lines         █████████████████████████   100.00 % 
+Gemini                   4,955 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.65% of written lines came from AI
-📄 Detailed Prompter — average 853 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.31% of changed lines were hand-edited
+🤖 AI-Driven — 84.09% of written lines came from AI
+📄 Detailed Prompter — average 952 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 23.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -207,7 +207,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 02:48:34 UTC
+ Last Updated on 23/10/2026 02:52:15 UTC
 <!--END_SECTION:waka-->
 
 
