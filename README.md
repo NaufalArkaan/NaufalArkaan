@@ -100,7 +100,7 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2025%20mins-blue?style=flat)
 
@@ -147,45 +147,45 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
-Python                   1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-HTML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Text                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+TypeScript               2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.48 % 
+Python                   1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Text                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+HTML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 45 mins       ████████████████░░░░░░░░░   64.85 % 
-VS Code                  2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+Antigravity IDE          4 hrs 13 mins       ████████████████░░░░░░░░░   62.11 % 
+VS Code                  2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.89 % 
 
 🐱‍💻 Projects: 
-Modul_2_Demo             2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-CareFam                  1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-Modul5_Vibe_KTP          1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Demo_Modul2              1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-modul3_codelab           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Modul_2_Demo             2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.20 % 
+CareFam                  1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Modul5_Vibe_KTP          1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Demo_Modul2              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+modul3_codelab           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 💻 Operating System: 
-Windows                  7 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (37.48%)
+⏱ AI Coding Time: 2 hrs 25 mins (35.52%)
 
 ✍️ 4,914 lines written by AI, 1,547 lines written by hand (76.06% AI-written)
 
-🔤 1,909,461 Input Tokens, 267,951 Output Tokens
+🔤 1,598,447 Input Tokens, 241,444 Output Tokens
 
-💵 $7.03 Estimated AI Cost This Week
+💵 $6.09 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 30 AI Prompts
+🧠 6 AI Sessions, 26 AI Prompts
 
 Gemini                   4,955 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 76.06% of written lines came from AI
-📄 Detailed Prompter — average 952 characters per prompt
+📄 Detailed Prompter — average 624 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 32.37% of changed lines were hand-edited
 ```
@@ -207,7 +207,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 02:49:09 UTC
+ Last Updated on 25/10/2026 02:40:47 UTC
 <!--END_SECTION:waka-->
 
 
