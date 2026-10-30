@@ -100,9 +100,9 @@
 # Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,32 +147,32 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      46 mins             ██████████████░░░░░░░░░░░   55.67 % 
-TypeScript               23 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+PHP                      41 mins             █████████████░░░░░░░░░░░░   50.65 % 
+TypeScript               23 mins             ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         ███████████████████░░░░░░   74.87 % 
-Antigravity IDE          20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+VS Code                  57 mins             ██████████████████░░░░░░░   70.20 % 
+Antigravity IDE          23 mins             ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🐱‍💻 Projects: 
-library-system-md3       36 mins             ███████████░░░░░░░░░░░░░░   43.18 % 
-modul3_codelab           26 mins             ████████░░░░░░░░░░░░░░░░░   31.69 % 
-Demo_Modul3              10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Implementasi-MIR-Trial   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Modul5_Vibe_KTP          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+library-system-md3       31 mins             █████████░░░░░░░░░░░░░░░░   37.94 % 
+modul3_codelab           26 mins             ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Demo_Modul3              10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Implementasi-MIR-Trial   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Modul5_Vibe_KTP          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (9.15%)
+⏱ AI Coding Time: 9 mins (11.0%)
 
 ✍️ 630 lines written by AI, 635 lines written by hand (49.8% AI-written)
 
@@ -180,15 +180,15 @@ Windows                  1 hr 23 mins        ███████████�
 
 💵 $1.27 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
 Gemini                   630 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 49.8% of written lines came from AI
 📄 Detailed Prompter — average 1,063 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 59.2% of changed lines were hand-edited
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 59.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -208,7 +208,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:50:36 UTC
+ Last Updated on 30/10/2026 03:53:12 UTC
 <!--END_SECTION:waka-->
 
 
