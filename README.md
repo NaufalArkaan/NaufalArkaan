@@ -106,13 +106,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2026
+> 🏆 158 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,21 +123,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-🌆 Daytime                84 commits          ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-🌃 Evening                149 commits         ████████████░░░░░░░░░░░░░   49.01 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+🌞 Morning                56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌆 Daytime                84 commits          ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+🌃 Evening                154 commits         ████████████░░░░░░░░░░░░░   49.68 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Tuesday                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Thursday                 70 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Friday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Monday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Tuesday                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Thursday                 72 commits          ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Friday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
 
 
@@ -147,33 +147,34 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      41 mins             ███████████████████░░░░░░   74.77 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+PHP                      41 mins             ██████████████░░░░░░░░░░░   56.51 % 
+TypeScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-VS Code                  31 mins             ██████████████░░░░░░░░░░░   56.00 % 
-Antigravity IDE          23 mins             ███████████░░░░░░░░░░░░░░   42.45 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Antigravity IDE          41 mins             ██████████████░░░░░░░░░░░   56.50 % 
+VS Code                  31 mins             ███████████░░░░░░░░░░░░░░   42.33 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
-library-system-md3       31 mins             ██████████████░░░░░░░░░░░   56.00 % 
-Demo_Modul3              10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Implementasi-MIR-Trial   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Modul5_Vibe_KTP          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+library-system-md3       31 mins             ███████████░░░░░░░░░░░░░░   42.33 % 
+CareFam                  17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+Demo_Modul3              10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Implementasi-MIR-Trial   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Modul5_Vibe_KTP          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (16.24%)
+⏱ AI Coding Time: 9 mins (12.27%)
 
-✍️ 630 lines written by AI, 18 lines written by hand (97.22% AI-written)
+✍️ 630 lines written by AI, 24 lines written by hand (96.33% AI-written)
 
 🔤 307,918 Input Tokens, 26,198 Output Tokens
 
@@ -184,10 +185,10 @@ Windows                  55 mins             ███████████�
 Gemini                   630 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.22% of written lines came from AI
+🤖 AI-Driven — 96.33% of written lines came from AI
 📄 Detailed Prompter — average 1,063 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 4.11% of changed lines were hand-edited
+🚀 High AI Trust — 5.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -207,7 +208,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NaufalArkaan/NaufalArkaan/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 03:37:26 UTC
+ Last Updated on 01/11/2026 03:43:02 UTC
 <!--END_SECTION:waka-->
 
 
