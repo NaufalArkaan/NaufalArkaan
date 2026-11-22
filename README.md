@@ -85,6 +85,7 @@
 ![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-purple?style=for-the-badge&logo=intellij%20IDEA&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&labelColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 
 
